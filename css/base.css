@@ -1,0 +1,18 @@
+/* Fonts */
+.lato-font {
+    font-family: "Lato";
+}
+.poppins-font {
+    font-family: "Poppins";
+}
+.dancing-script-font {
+    font-family: "Dancing Script";
+}
+.white-text {
+    color: white;
+}
+
+/* Position Default */
+.margin-left-right-70 {
+    margin: 0 70px;
+}
